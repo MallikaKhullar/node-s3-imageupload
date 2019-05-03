@@ -1,0 +1,23 @@
+{
+    "name": "zip_connection",
+    "version": "1.0.0",
+    "description": "An app to promote locally sourced food.",
+    "main": "printMessages.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" &amp;&amp; exit 1"
+    },
+    "author": "Jon Wexler",
+    "license": "ISC",
+    "dependencies": {
+        "aws-sdk": "2.448.0",
+        "body-parser": "~1.12.2",
+        "config": "~0.4.37",
+        "cookie-parser": "~1.3.4",
+        "express": "~4.9.8",
+        "multer": "1.4.1",
+        "multer-s3": "2.9.0",
+        "randomstring": "^1.1.5",
+        "request": "~2.40.0",
+        "s3": "~4.4.0"
+    }
+}

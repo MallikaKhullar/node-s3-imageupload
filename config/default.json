@@ -1,0 +1,12 @@
+{
+    "s3Config": {
+        "folder": "folder/",
+        "bucketPath": "http://path.com/path-here/",
+        "bucket": "bucket-name",
+        "accessKeyId": "accessKey",
+        "secretAccessKey": "secretAccessKey",
+        "basePath": "image/",
+        "acl": "public-read",
+        "region": "region-here"
+    }
+}
